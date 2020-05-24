@@ -1,7 +1,7 @@
 {
     "name": "centamiv/req-res-log",
     "version": "0.1",
-    "description": "asdsaadsadasdsa",
+    "description": "Simple Laravel HTTP request/response logger",
     "keywords": ["request", "response", "logger", "laravel"],
     "authors": [
         {
