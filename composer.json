@@ -1,6 +1,6 @@
 {
     "name": "centamiv/req-res-log",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Simple Laravel HTTP request/response logger",
     "license": "MIT",
     "keywords": ["request", "response", "logger", "laravel"],
